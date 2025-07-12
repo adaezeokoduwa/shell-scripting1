@@ -49,7 +49,7 @@ This project focused on automating routine tasks using shell scripting in a Linu
    ```
    ls -la
    ```
-
+![](https://github.com/adaezeokoduwa/shell-scripting1/blob/main/imgs/shell-script.jpg?raw=true)
 ---
 
 ## Task 2: Make the Script Executable and Run It
@@ -86,7 +86,7 @@ This project focused on automating routine tasks using shell scripting in a Linu
    ```
 
    the command returned UID and GID info confirming the user creation.
-
+![](https://github.com/adaezeokoduwa/shell-scripting1/blob/main/imgs/shell-script.jpg?raw=true)
 ---
 
 ## Conclusion
